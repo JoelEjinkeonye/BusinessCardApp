@@ -86,7 +86,7 @@ fun BusinessCard(modifier: Modifier = Modifier) {
 }
 
 @Composable
-fun ContactInformation(modifier: Modifier = Modifier) {
+fun ContactInformation(modifie: Modifier = Modifier) {
     Column(
         horizontalAlignment = Alignment.Start,
         verticalArrangement = Arrangement.Bottom,
